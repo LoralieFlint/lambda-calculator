@@ -1,0 +1,28 @@
+.calcContainer {
+    background-color: #cc213d;
+    padding-top: 20px;
+    width: 350px;
+    margin: auto;
+    border-radius: 10px;
+    border: 2px solid gray;
+}
+
+.logo {
+    height: 25px;
+    padding: 0px 0px 0px 20px;
+}
+
+.answerContainer {
+    background-color: darkslategray;
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+    text-align: center;
+    width: 70%;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    padding: 5px 15px 0px 0px;
+    height: 30px;
+    border-radius: 30px;
+}
